@@ -1,0 +1,15 @@
+package code1;
+
+public class Variable1 {
+
+	public static void main(String[] args) {
+		int a = 20;
+		float b = 20; //implicit
+		float d = 33.9f;
+		int c = (int)d; //explicit
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+	}
+
+}
