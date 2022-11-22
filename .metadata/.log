@@ -292,3 +292,8 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-22 13:07:37.107
 !MESSAGE executing callback sts4.classpath.RohZpFaV SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 2 2 2022-11-22 13:12:34.178
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-22 13:12:34.178
+!MESSAGE The project description file (.project) for 'controlFlow' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
