@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="inheritanceExample.Guest"/>
+<fullyQualifiedTypeName name="inheritanceExample.Developer"/>
+<fullyQualifiedTypeName name="inheritanceExample.Admin"/>
+<fullyQualifiedTypeName name="inhertanceImplements.iGuest"/>
+<fullyQualifiedTypeName name="inhertanceImplements.iDeveloper"/>
+<fullyQualifiedTypeName name="inhertanceImplements.iAdmin"/>
+<fullyQualifiedTypeName name="inhertanceImplements.iLaptop"/>
+<fullyQualifiedTypeName name="inhertanceImplements.Lenovo"/>
+</qualifiedTypeNameHistroy>
