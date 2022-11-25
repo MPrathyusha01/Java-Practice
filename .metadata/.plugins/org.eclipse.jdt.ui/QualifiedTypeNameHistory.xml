@@ -7,6 +7,8 @@
 <fullyQualifiedTypeName name="inhertanceImplements.iGuest"/>
 <fullyQualifiedTypeName name="inhertanceImplements.iDeveloper"/>
 <fullyQualifiedTypeName name="inhertanceImplements.iAdmin"/>
-<fullyQualifiedTypeName name="inhertanceImplements.iLaptop"/>
 <fullyQualifiedTypeName name="inhertanceImplements.Lenovo"/>
+<fullyQualifiedTypeName name="encapsulationJava.Student"/>
+<fullyQualifiedTypeName name="inhertanceImplements.iLaptop"/>
+<fullyQualifiedTypeName name="inhertanceImplements.SampleAC"/>
 </qualifiedTypeNameHistroy>
